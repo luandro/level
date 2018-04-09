@@ -41,7 +41,7 @@
     "tape": "^4.2.2"
   },
   "scripts": {
-    "test": "standard && node test.js",
+    "test": "standard && node test.js"
   },
   "engines": {
     "node": ">=4"
